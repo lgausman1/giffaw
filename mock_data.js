@@ -1,4 +1,4 @@
-var mockData = {
+var mockData = { // mockData.data[0].images.fixed_height.url
     "data": [
         {
             "type": "gif",
